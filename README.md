@@ -1,4 +1,4 @@
-# Training task - Single Page Application "TODO APP"
+# Single Page Application "TODO APP"
 
 ## Netlify DEMO
 
